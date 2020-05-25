@@ -1,3 +1,8 @@
+## Welcome to my Blog!
+
+Hello, I'm Sammy and this is my blog! I post about current events in my life, the code I'm learning/working on and more. 
+My full website is available [over here](//www.sammydentino.dev).
+
 ## About Me
 
 I am a fourth year student at Point Loma Nazarene University, majoring in Computer Science Software Engineering.
