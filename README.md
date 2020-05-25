@@ -1,7 +1,5 @@
 ## About Me
 
-### Computer Science - Software Engineering Major
-
 I am a fourth year student at Point Loma Nazarene University, majoring in Computer Science Software Engineering.
 
 I hope to pursue a career in Software Engineering. My ideal work environment will allow me to utilize my skills in programming and the various languages, extend my knowledge in the technological side of businesses, and exercise my passion for organization and oversight.
