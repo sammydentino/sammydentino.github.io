@@ -1,3 +1,12 @@
+# Site settings
 theme: jekyll-theme-cayman
 title: Welcome to my Blog!
-description: Posts about Computer Science, Code Tutorials, Mental Health, and more!
+description: > # this means to ignore newlines until "baseurl:"
+  Posts about Computer Science, Code Tutorials, Mental Health, and more!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://sammydentino.github.io" # the base hostname & protocol for your site
+twitter_username: sammydentino
+github_username:  sammydentino
+
+# Build settings
+markdown: kramdown
