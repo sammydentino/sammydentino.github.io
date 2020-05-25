@@ -1,3 +1,11 @@
+## About Me
+
+### Computer Science - Software Engineering Major
+
+I am a third year student at Point Loma Nazarene University, majoring in Computer Science Software Engineering and minoring in Computational Science with an emphasis in Psychology.
+
+I hope to pursue a career in Software Engineering while utilizing my Computational Psychology minor. My ideal work environment will allow me to utilize my skills in programming and the various languages, extend my knowledge in the technological side of businesses, and exercise my passion for organization and oversight.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sammydentino/sammydentino.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
